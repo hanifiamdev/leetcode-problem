@@ -55,9 +55,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -88,20 +85,8 @@ Here's why:
 * Time and space complexity are still being factored into the development of solutions.
 
 Of course, this will not be easy, but by continuing to learn how to problem-solve in Leetcode to find algorithms for various questions, you will improve your ability to create program algorithms over time.
-
+Please, check Branch if you want see detail problem solving.
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-The tools that were employed :
-
-* [Java](https://www.java.com/en/)
-* [Intellij IDEA](https://www.jetbrains.com/idea/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -110,8 +95,8 @@ The tools that were employed :
 Running locally on your computer: a guide
 
 ### Prerequisites
-
-jDK must be installed. Please click [here](https://www.oracle.com/java/technologies/downloads/) for dowload.
+* [Java](https://www.java.com/en/) (jDK must be installed. Please click [here](https://www.oracle.com/java/technologies/downloads/) for dowload)
+* [Intellij IDEA](https://www.jetbrains.com/idea/) (Code Editor)
 
 ### Installation
 
@@ -135,7 +120,6 @@ _Below is an example of how you can instruct your audience on installing and set
 See the [open issues](https://github.com/hanifiamdev/leetcode-problem/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
