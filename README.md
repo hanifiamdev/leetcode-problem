@@ -70,10 +70,10 @@
    ```
 
 ## Detail Submissions
-|                           Source                                                                | Runtime | Memory Usage |    Note    |     
-|:-----------------------------------------------------------------------------------------------:|:-------:|:------------:|:----------:|
-| [Solution.java](https://github.com/hanifiamdev/leetcode-problem/blob/two-sum/src/Solution.java) |  84 ms  |   45,4 MB    | Bruteforce |                                          		 	
-|                                                2                                                |         |              |            |                              
+|                       Source                                                                      | Time complexity  |        Runtime        | Memory Usage | Note                                                         |     
+|:-------------------------------------------------------------------------------------------------:|:----------------:|:---------------------:|:------------:|:-------------------------------------------------------------|
+|  [Solution.java](https://github.com/hanifiamdev/leetcode-problem/blob/two-sum/src/Solution.java)  |      O(n^2)      |         84 ms         |   45,4 MB    | Naive approach: Use two for loops (Nested Loop (Bruteforce)) |                                          		 	
+| [Solution2.java](https://github.com/hanifiamdev/leetcode-problem/blob/two-sum/src/Solution2.java) |       O(n)       |         3 ms          |    46 MB     | Use a HashMap (Most efficient)                               |                              
 
 
 
