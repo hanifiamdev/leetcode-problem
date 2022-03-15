@@ -10,8 +10,11 @@ public class Main {
         int[] nums = Arrays.stream(scan.nextLine().replaceAll("\s+$", "").split(" ")).mapToInt(Integer::parseInt).toArray();
         System.out.print("target : ");
         int target = scan.nextInt();
-        int[] result = Solution.twoSum(nums, target);
-        System.out.println("Output : " + (result.length < 2 ? "Not Found" : Arrays.toString(result)));
+        // Solusi 1
+        //int[] result = Solution.twoSum(nums, target);
+        // Solusi 2
+        int[] result = Solution2.twoSum(nums, target);
+        System.out.println("Output : " + (result.length < 2 ? "No solution found!" : Arrays.toString(result)));
         scan.close();
     }
 }
